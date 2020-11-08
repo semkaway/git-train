@@ -5,3 +5,10 @@ a {
 img {
     max-width: 300px;
 }
+
+button {
+    text-transform: uppercase;
+    border: 1px solid red;
+    color: orange;
+    background-color: blue;
+}
