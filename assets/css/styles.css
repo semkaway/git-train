@@ -7,8 +7,9 @@ img {
 }
 
 button {
-    text-transform: uppercase;
+    text-transform: lowercase;
     border: 1px solid red;
     color: yellow;
     background-color: blue;
+    border-radius: 10%;
 }
